@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Login Moviecenter</title>
+  <title>Spielesammlung</title>
   <link rel="stylesheet" type="text/css" href="_style.css" />
 </head>
 
@@ -13,7 +13,7 @@
     <div class="row col-md-6 col-md-offset-3">
       <div class="panel panel-primary">
         <div class="panel-heading text-center">
-          <h1>Login Moviecenter</h1>
+          <h1>Spielsammlung Login</h1>
         </div>
 
         <div class="panel-body">
